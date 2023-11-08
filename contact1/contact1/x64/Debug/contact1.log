@@ -1,0 +1,3 @@
+﻿  contact1.c
+D:\rope\contact1\contact1\contact1.c(11,11): warning C4098: “InitContact”:“void”函数返回值
+  contact1.vcxproj -> D:\rope\contact1\x64\Debug\contact1.exe

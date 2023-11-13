@@ -1,0 +1,8 @@
+﻿  test.c
+D:\rope\test_2023_11_13\test_2023_11_13\test.c(93,19): warning C4305: “=”: 从“double”到“float”截断
+D:\rope\test_2023_11_13\test_2023_11_13\test.c(94,20): warning C4305: “=”: 从“double”到“float”截断
+D:\rope\test_2023_11_13\test_2023_11_13\test.c(97,19): warning C4305: “=”: 从“double”到“float”截断
+D:\rope\test_2023_11_13\test_2023_11_13\test.c(92,26): warning C4101: “z”: 未引用的局部变量
+D:\rope\test_2023_11_13\test_2023_11_13\test.c(92,22): warning C4101: “z4”: 未引用的局部变量
+D:\rope\test_2023_11_13\test_2023_11_13\test.c(92,18): warning C4101: “z3”: 未引用的局部变量
+  test_2023_11_13.vcxproj -> D:\rope\test_2023_11_13\x64\Debug\test_2023_11_13.exe

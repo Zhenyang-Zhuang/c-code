@@ -1,0 +1,7 @@
+﻿  test.c
+D:\rope\test_2023_11_24\test_2023_11_24\test.c(119): warning C4716: “DList_TailInsert”: 必须返回一个值
+D:\rope\test_2023_11_24\test_2023_11_24\test.c(142): warning C4716: “DList_HeadInsert”: 必须返回一个值
+D:\rope\test_2023_11_24\test_2023_11_24\test.c(165): warning C4716: “DList_Cir_TailInsert”: 必须返回一个值
+D:\rope\test_2023_11_24\test_2023_11_24\test.c(195): warning C4716: “DList_Cir_HeadInsert”: 必须返回一个值
+D:\rope\test_2023_11_24\test_2023_11_24\test.c(392): warning C4716: “DDList_TailInsert”: 必须返回一个值
+  test_2023_11_24.vcxproj -> D:\rope\test_2023_11_24\x64\Debug\test_2023_11_24.exe

@@ -1,0 +1,3 @@
+﻿  test.c
+D:\rope\test_2023_12_3\test_2023_12_3\test.c(38): warning C4715: “is_pair”: 不是所有的控件路径都返回值
+  test_2023_12_3.vcxproj -> D:\rope\test_2023_12_3\x64\Debug\test_2023_12_3.exe
